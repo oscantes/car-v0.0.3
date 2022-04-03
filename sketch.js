@@ -11,7 +11,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1900,800);
+  createCanvas(1400,800);
 }
 
 function draw() {
